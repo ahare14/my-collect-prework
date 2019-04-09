@@ -1,5 +1,5 @@
 
-array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
+
 
 def my_collect(array)
   update = []
@@ -10,5 +10,3 @@ def my_collect(array)
   end
   update
 end
-
-my_collect(array)
